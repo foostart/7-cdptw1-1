@@ -120,10 +120,6 @@
 .type-758 .type-L-home-categories .mod-custom-21 .carousel li {
   margin: 3px 0 0;
 }
-.type-758 .type-L-home-categories .mod-custom-21 .ab {
-  margin-top: -66px;
-  margin-left: 50px;
-}
 .type-758 .type-L-home-categories .mod-custom-21 .prev {
   width: 100%;
   position: relative;
@@ -285,10 +281,6 @@
   left: 50%;
   margin-left: 15px;
 }
-.type-758 .type-L-home-categories .type-21 .ab {
-  margin-top: -66px;
-  margin-left: 50px;
-}
 .type-758 .type-L-home-categories .type-21 .carousels li:first-child {
   margin: 0;
   padding-top: 15px;
@@ -356,7 +348,7 @@
 .type-758 .type-L-home-categories .type-21 .name {
   margin-top: 4px;
 }
-@media (max-width: 767px) {
+@media (max-width: 768px) {
   .type-758 .type-L-home-categories .item .image {
     display: inline-block;
     margin-right: 15px;
@@ -664,9 +656,8 @@
   height: auto;
 }
 .type-758 .type-L .type-34 .right-top {
-  float: right;
+  float: left;
   border: 1px solid #e5e5e5;
-  margin-left: 5px;
 }
 .type-758 .type-L .type-34 .right-top:hover {
   background: #19caaf;
@@ -715,7 +706,7 @@
   font-size: 12px;
   position: absolute;
   margin-top: -10px;
-  left: 20px;
+  margin-left: 20px;
   line-height: 19px;
   padding: 0 8px;
 }
