@@ -919,7 +919,7 @@
                                                 <div class="item active">
                                                     <div class="col-md-4">
                                                         <div class="row">
-                                                            <div class="column" style="margin-right : 15px;">
+                                                            <div class="column" style="margin-right :15px;">
                                                                 <figure class="images">
                                                                     <img src="images/video-capture.png" alt=""/>
                                                                 </figure>
