@@ -12,10 +12,13 @@
                 <div class="row">                                      
 
                     <div id="owl-demo" class="owl-carousel">
-                        <img src="images/computer-336628.jpg">
-                        <img src="images/moonshine-960797_1920.jpg">
+                        <img src="images/computer-336628.jpg" alt="">
+                        <img src="images/moonshine-960797_1920.jpg" alt="">
                     </div>
                     <span class="paginatecircle" data-moveby="1"></span>
+                    <div style="text-align: center;">
+                
+            </div>
                 </div>
             </div>
         </div>         

@@ -15,14 +15,14 @@
         		<p>
         			BREADS EVERY DAY
         		</p>
-                <img src="images/floral.png">
+                <img src="images/floral.png" alt="">
         	</div>
             <div class="row">
             	<div class="col-md-6">
             		<div class="products">
                         <div class="product">
                             <div class="product-img">
-                                <img src="images/1.png">
+                                <img src="images/1.png" alt="">
                                 <div class="product-list">
                                     <div class="row">
                                         <div class="col-md-4">
@@ -42,18 +42,17 @@
                                     <h2>
                                         <a href="#">Pie topping jelly</a>
                                     </h2>
-                                    <p>
+                                  
                                         <a href="#">CUPCAKE</a>-<a href="#">ORGANIC</a>
-                                    </p>
-                                    <p>
+                                    
                                         <div class="stars starrr" data-rating="0"></div>
-                                    </p>
+                                   
                                 </div>
                             </div>
                         </div>
             			<div class="product">
                             <div class="product-img">
-                                <img src="images/2.png">
+                                <img src="images/2.png" alt="">
                                 <div class="product-list">
                                     <div class="row">
                                         <div class="col-md-4">
@@ -73,18 +72,18 @@
                                     <h2>
                                         <a href="#">Pie topping jelly</a>
                                     </h2>
-                                    <p>
+                                    
                                         <a href="#">CUPCAKE</a>-<a href="#">ORGANIC</a>
-                                    </p>
-                                    <p>
+                                   
+                                  
                                         <div class="stars starrr" data-rating="0"></div>
-                                    </p>
+                                
                                 </div>
                             </div>
                         </div>
             			<div class="product">
                             <div class="product-img">
-                                <img src="images/3.png">
+                                <img src="images/3.png" alt="">
                                 <div class="product-list">
                                     <div class="row">
                                         <div class="col-md-4">
@@ -104,12 +103,12 @@
                                     <h2>
                                         <a href="#">Pie topping jelly</a>
                                     </h2>
-                                    <p>
+                                    
                                         <a href="#">CUPCAKE</a>-<a href="#">ORGANIC</a>
-                                    </p>
-                                    <p>
+                                   
+                                    
                                         <div class="stars starrr" data-rating="0"></div>
-                                    </p>
+                               
                                 </div>
                             </div>
                         </div>
@@ -118,7 +117,7 @@
             	<div class="col-md-6">
             		<div class="product">
                             <div class="product-img">
-                                <img src="images/4.png">
+                                <img src="images/4.png" alt="">
                                 <div class="product-list">
                                     <div class="row">
                                         <div class="col-md-4">
@@ -138,18 +137,17 @@
                                     <h2>
                                         <a href="#">Pie topping jelly</a>
                                     </h2>
-                                    <p>
+                                 
                                         <a href="#">CUPCAKE</a>-<a href="#">ORGANIC</a>
-                                    </p>
-                                    <p>
+                                 
                                         <div class="stars starrr" data-rating="0"></div>
-                                    </p>
+                                
                                 </div>
                             </div>
                         </div>
                     <div class="product">
                             <div class="product-img">
-                                <img src="images/5.png">
+                                <img src="images/5.png" alt="">
                                 <div class="product-list">
                                     <div class="row">
                                         <div class="col-md-4">
@@ -169,18 +167,17 @@
                                     <h2>
                                         <a href="#">Pie topping jelly</a>
                                     </h2>
-                                    <p>
+                                  
                                         <a href="#">CUPCAKE</a>-<a href="#">ORGANIC</a>
-                                    </p>
-                                    <p>
+                                   
                                         <div class="stars starrr" data-rating="0"></div>
-                                    </p>
+                                    
                                 </div>
                             </div>
                         </div>
                     <div class="product">
                             <div class="product-img">
-                                <img src="images/6.png">
+                                <img src="images/6.png" alt="">
                                 <div class="product-list">
                                     <div class="row">
                                         <div class="col-md-4">
@@ -200,12 +197,11 @@
                                     <h2>
                                         <a href="#">Pie topping jelly</a>
                                     </h2>
-                                    <p>
+                                  
                                         <a href="#">CUPCAKE</a>-<a href="#">ORGANIC</a>
-                                    </p>
-                                    <p>
+                                    
                                         <div class="stars starrr" data-rating="0"></div>
-                                    </p>
+                                    
                                 </div>
                             </div>
                         </div>

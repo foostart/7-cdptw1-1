@@ -53,7 +53,7 @@
   text-align: center;
   border-radius: 2px;
   border: solid 1px #fcb800;
-  background: #fcb800;
+  background: #fce900;
   color: black;
   height: 55px;
   margin-top: 15px;
@@ -61,9 +61,12 @@
 .type-i-22 .add-cart h2 {
   font-size: 1em;
 }
+.type-i-22 .click:hover {
+  text-decoration: none;
+}
 .type-i-22 .add-cart:hover {
   border: solid 1px #fcb800;
-  background: white;
+  background: #f8fc00;
   cursor: pointer;
   transition: ease .15s all;
 }

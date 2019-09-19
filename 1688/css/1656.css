@@ -135,6 +135,10 @@
   color: #fcb800;
   text-decoration: underline;
 }
+.type-739 .banner .swiper-slide .block .so1 {
+  margin: 0 21px 10px;
+  float: left;
+}
 .type-739 .banner .swiper-slide .block .far-item p {
   margin: 0 0 10px;
   float: left;
@@ -158,22 +162,20 @@
   visibility: visible;
   -webkit-transition: visibility .25s ease, opacity .25s ease, margin .25s ease;
 }
-.type-739 .banner .swiper-button-next,
-.type-739 .banner .swiper-container-rtl .swiper-button-prev {
-  margin-right: 44px;
+.type-739 .banner .swiper-button-next {
   width: 40px;
-  height: 40px;
+  height: 20px;
 }
-.type-739 .banner .swiper-button-prev,
-.type-739 .banner .swiper-container-rtl .swiper-button-next {
-  margin-left: 44px;
+.type-739 .banner .swiper-button-prev {
+  left: 0;
   width: 40px;
-  height: 40px;
+  height: 20px;
 }
 .type-739 .banner .swipper-btn {
+  bottom: 201px;
   color: #222;
   text-align: center;
-  margin-top: 405px;
+  position: relative;
 }
 .type-739 .banner .swipper-btn>div:hover {
   width: 40px;

@@ -19,7 +19,7 @@
 ?>
 <!DOCTYPE html>
 
-<html style="background-color: #f3f3f4;">
+<html lang="en" style="background-color: #f3f3f4;">
 
     <head>
         <title>1666</title>

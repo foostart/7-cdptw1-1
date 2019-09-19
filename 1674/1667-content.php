@@ -29,7 +29,7 @@
                      <a class="minus dib" href="javascript:void(0);">
                     <i class="fa fa-minus"></i>
                      </a>
-                     <input type="number" class="input-text tc" id="quantity_5cc577f043db9" step="1" min="1" max="" name="quantity" value="1" size="4">
+                     <input type="number" class="input-text tc" id="quantity_5cc577f043db9" step="1" min="1" name="quantity" value="1" >
                      <a class="plus dib" href="javascript:void(0);">
                      <i class="fa fa-plus"></i>
                      </a>
@@ -37,17 +37,18 @@
                </div>
             		</div>
             		<div class="col-md-2">
-            			<a href="#">
+            			
             				<div class="add-cart">
+
             					<h2>
-            						Add To Cart
+            					<a class="click" href="#">	Add To Cart</a>
             					</h2>
             				</div>
-            			</a>
+            			
             		</div>
             		<div class="col-md-8">
             			<div class="wl">
-            				<a href="#" datatoggle="tooltip" title="Add to Wish List">
+            				<a href="#"  title="Add to Wish List">
             					<i class="far fa-heart"></i>
             				</a>
             			</div>

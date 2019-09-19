@@ -19,7 +19,7 @@
 ?>
 <!DOCTYPE html>
 
-<html>
+<html lang="en">
     <head>
         <title>module 2000</title>
         <meta charset="UTF-8">
@@ -35,6 +35,6 @@
 
     <body>   
             <?php include $dir_block.'/2000-content.php'; ?>
-
+            
     </body>
 </html>

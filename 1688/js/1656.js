@@ -1,25 +1,36 @@
 
-var swiper = new Swiper('.swiper-container', {
-                    loop: true,
-                    pagination: '.swiper-pagination',
-                    nextButton: '.swiper-button-next',
-                    prevButton: '.swiper-button-prev',
-                    slidesPerView: 5,
-                    spaceBetween: 30,
-                          pagination: {
-                        el: '.swiper-pagination',
-                        clickable: true,
-                      },
-                    
-                    breakpoints: {
-                    960: {
-                      slidesPerView: 2,
-                      spaceBetween: 30,
-                    },
-                    480: {
-                      slidesPerView: 1,
-                      spaceBetween: 20,
-                    },
+var mySwiper = new Swiper ('.swiper-container', {
+    // Optional parameters
+    direction: 'horizontal',
+    loop: true,
+    slidesPerView: 5,
+    spaceBetween: 30,
+    // If we need pagination
+    pagination: {
+      el: '.swiper-pagination',
+      clickable:true,
+    },
 
-                  } 
-                });
+    // Navigation arrows
+    navigation: {
+      nextEl: '.swiper-button-next',
+      prevEl: '.swiper-button-prev',
+    },
+
+    // And if we need scrollbar
+    scrollbar: {
+      el: '.swiper-scrollbar',
+    },
+  });
+$(document).ready(function(){
+$(".my-rating").starRating({
+  initialRating: 4,
+    disableAfterRate: false,
+    onHover: function(currentIndex, currentRating, $el){
+      $('.live-rating').text(currentIndex);
+    },
+    onLeave: function(currentIndex, currentRating, $el){
+      $('.live-rating').text(currentRating);
+    }
+  });
+});
