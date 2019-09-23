@@ -1,29 +1,5 @@
-<!DOCTYPE html>
 
-<html>
-    <head>
-        <title>758</title>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css" />
-        <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
-        <link href="css/758.css" rel="stylesheet" type="text/css" />
-        <?php
-        if (!class_exists('lessc')) {
-            include ('./libs/lessc.inc.php');
-        }
-        $less = new lessc;
-        $less->compileFile('less/758.less', 'css/758.css');
-        ?>
-        <script src="js/jquery-3.1.1.min.js" type="text/javascript"></script>
-        <script src="js/bootstrap.min.js" type="text/javascript"></script>
-        <script src="js/scripts-categories-1.js" type="text/javascript"></script>
-        <script src="js/scripts-categories-2.js" type="text/javascript"></script>
-    </head>
-
-    <body>
-        <div class="type-758">
+        <div class="type-609">
             <div class="header">
                 <div class="container">
                     <div id="switch">
@@ -1091,5 +1067,4 @@
                 </div>
             </div>
         </div>
-    </body>
-</html>
+  
