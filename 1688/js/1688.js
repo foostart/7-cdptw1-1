@@ -5,6 +5,7 @@ var mySwiper = new Swiper ('.swiper-container', {
     loop: true,
     slidesPerView: 5,
     spaceBetween: 30,
+    
     // If we need pagination
     pagination: {
       el: '.swiper-pagination',
@@ -22,15 +23,3 @@ var mySwiper = new Swiper ('.swiper-container', {
       el: '.swiper-scrollbar',
     },
   });
-$(document).ready(function(){
-$(".my-rating").starRating({
-  initialRating: 4,
-    disableAfterRate: false,
-    onHover: function(currentIndex, currentRating, $el){
-      $('.live-rating').text(currentIndex);
-    },
-    onLeave: function(currentIndex, currentRating, $el){
-      $('.live-rating').text(currentRating);
-    }
-  });
-});
