@@ -19,7 +19,7 @@
             <div class="container">
             <div class="row">
             	<div class="col-md-6">
-            		<div class="products">
+            		
                         <div class="product">
                             <div class="product-img">
                                 <img src="images/1.png" alt="">
@@ -37,7 +37,7 @@
                                     </div>
                                 </div>                                
                             </div>
-                            <div class="product-title">
+                            
                                 <div class="product-content">
                                     <h2>
                                         <a href="#">Pie topping jelly</a>
@@ -45,10 +45,10 @@
                                   
                                         <a href="#">CUPCAKE</a>-<a href="#">ORGANIC</a>
                                     
-                                        <div class="stars starrr" data-rating="0"></div>
+                                        
                                    
                                 </div>
-                            </div>
+                          
                         </div>
             			<div class="product">
                             <div class="product-img">
@@ -67,7 +67,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="product-title">
+                            
                                 <div class="product-content">
                                     <h2>
                                         <a href="#">Pie topping jelly</a>
@@ -76,9 +76,9 @@
                                         <a href="#">CUPCAKE</a>-<a href="#">ORGANIC</a>
                                    
                                   
-                                        <div class="stars starrr" data-rating="0"></div>
+                                       
                                 
-                                </div>
+                               
                             </div>
                         </div>
             			<div class="product">
@@ -98,7 +98,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="product-title">
+                            
                                 <div class="product-content">
                                     <h2>
                                         <a href="#">Pie topping jelly</a>
@@ -107,12 +107,12 @@
                                         <a href="#">CUPCAKE</a>-<a href="#">ORGANIC</a>
                                    
                                     
-                                        <div class="stars starrr" data-rating="0"></div>
+                                       
                                
                                 </div>
-                            </div>
+                          
                         </div>
-            		</div>
+            	
             	</div>
             	<div class="col-md-6">
             		<div class="product">
@@ -132,7 +132,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="product-title">
+                            
                                 <div class="product-content">
                                     <h2>
                                         <a href="#">Pie topping jelly</a>
@@ -140,10 +140,10 @@
                                  
                                         <a href="#">CUPCAKE</a>-<a href="#">ORGANIC</a>
                                  
-                                        <div class="stars starrr" data-rating="0"></div>
+                                       
                                 
                                 </div>
-                            </div>
+                           
                         </div>
                     <div class="product">
                             <div class="product-img">
@@ -162,7 +162,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="product-title">
+                            
                                 <div class="product-content">
                                     <h2>
                                         <a href="#">Pie topping jelly</a>
@@ -170,10 +170,9 @@
                                   
                                         <a href="#">CUPCAKE</a>-<a href="#">ORGANIC</a>
                                    
-                                        <div class="stars starrr" data-rating="0"></div>
-                                    
+                                       
                                 </div>
-                            </div>
+                         
                         </div>
                     <div class="product">
                             <div class="product-img">
@@ -192,7 +191,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="product-title">
+                           
                                 <div class="product-content">
                                     <h2>
                                         <a href="#">Pie topping jelly</a>
@@ -200,10 +199,10 @@
                                   
                                         <a href="#">CUPCAKE</a>-<a href="#">ORGANIC</a>
                                     
-                                        <div class="stars starrr" data-rating="0"></div>
+                                        
                                     
                                 </div>
-                            </div>
+                         
                         </div>
             	</div>
             </div>

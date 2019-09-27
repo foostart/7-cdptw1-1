@@ -16,9 +16,9 @@
          <div class="promo-v1">
              Ends after:
              <div class="promo-count" data-date="11 20 2018" data-day-loop="true" data-hours-only="true">
-              <div class="cd-sale hour"><span class="num">16</span><span class="unit">h</span></div>
-              <div class="cd-sale minute"><span class="num">11</span><span class="unit">m</span></div>
-              <div class="cd-sale second"><span class="num">10</span><span class="unit">s</span></div>
+              <div class=" hour"><span class="num">16</span><span >h</span></div>
+              <div ><span class="num">11</span><span >m</span></div>
+              <div ><span class="num">10</span><span >s</span></div>
           </div>
       </div>
       <div class="view-all"><a href="#">View All</a></div>

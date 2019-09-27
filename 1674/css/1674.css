@@ -1,9 +1,6 @@
 .type-i-22 {
   font-family: Work San;
 }
-.type-i-22 .stock {
-  color: #690;
-}
 .type-i-22 .quantity {
   height: 54px;
   margin: 16px 18px 0px 15px;
@@ -17,11 +14,6 @@
 .type-i-22 .quantity .tc .plus:hover,
 .type-i-22 .quantity .tc .minus:hover {
   background: #fcb800;
-}
-.type-i-22 .quantity .qty a {
-  width: 40px;
-  height: 43px;
-  background: none;
 }
 .type-i-22 .quantity i {
   color: #777;

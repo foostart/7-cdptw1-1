@@ -8,7 +8,6 @@ $url_path = $url_host . $matches[1][0];
 $url_path = str_replace('\\', '/', $url_path);
 ?>
 <div class="type-331">
-    <div class="banner">
         <div class="container">
             <div class="swiper-container">                                      
                 <div class="swiper-wrapper">
@@ -29,7 +28,7 @@ $url_path = str_replace('\\', '/', $url_path);
                 <div class="swiper-pagination"></div>
             </div>
      </div>
-    </div>
+   
 </div>
 
 

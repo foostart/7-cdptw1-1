@@ -8,7 +8,7 @@
   $url_path = str_replace('\\', '/', $url_path);
   ?>
   <div class="type-i-22">
-    <div class="banner">
+    
       <div class="container">
         <div class="swiper-container">                                      
           <div class="swiper-wrapper">
@@ -34,20 +34,20 @@
      <h2>
       $200.00
     </h2>
-    <div class="stock">
+   
       In stock
-    </div>
-    <div class="content-product">
+    
+    <p>
       Get more space for groceries in a great feature-packed refrigerator. Nothing beats the convenience of having more food when you need it, and with a generous 20 cu. ft. of space, you'll have room and room to grow.
-    </div>
+    </p>
     <hr>
     <div>
         Quantity:
       </div>
 <div class="row">
       <div class="quantity ">
-        <div class="qty tc">
-          <input type="number" class="input-text tc" id="quantity_5cc577f043db9" step="1" min="1" name="quantity" value="1" >
+        <div class= tc">
+          <input type="number" tc" id="quantity_5cc577f043db9" step="1" min="1" name="quantity" value="1" >
 
         </div>
       </div>
@@ -77,6 +77,6 @@
 
 </div> 
 
-</div>
+
 </div>
 
