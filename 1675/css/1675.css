@@ -7,3 +7,12 @@
   position: relative;
   margin: auto;
 }
+.type-331 .swiper-container-horizontal>.swiper-pagination-bullets .swiper-pagination-bullet:hover {
+  background: #007aff;
+}
+.type-331 .swiper-button-next:hover {
+  color: #063e7a;
+}
+.type-331 .swiper-button-prev:hover {
+  color: #063e7a;
+}

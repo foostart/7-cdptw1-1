@@ -18,8 +18,7 @@
         	</div>
             <div class="container">
             <div class="row">
-            	<div class="col-md-6">
-            		
+            	<div class="col-md-6 abc">
                         <div class="product">
                             <div class="product-img">
                                 <img src="images/1.png" alt="">

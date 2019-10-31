@@ -31,10 +31,11 @@
         <link href="css/609.css" rel="stylesheet" type="text/css" />
         <script src="js/jquery-3.1.1.min.js" type="text/javascript"></script>
         <script src="js/bootstrap.min.js" type="text/javascript"></script>
-        <script src="js/scripts-categories-1.js" type="text/javascript"></script>
-        <script src="js/scripts-categories-2.js" type="text/javascript"></script>
+        <link href="<?php echo $url_path ?>/css/swiper.min.css" rel="stylesheet" type="text/css"/>
+        <script src="<?php echo $url_path ?>/js/swiper.min.js"></script>
     </head>
     <body>
         <?php include $dir_block.'/609-content.php'; ?>
+        <script src="<?php echo $url_path ?>/js/609.js"></script>
     </body>
 </html>
